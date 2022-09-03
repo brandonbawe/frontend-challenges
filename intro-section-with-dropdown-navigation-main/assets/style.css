@@ -209,3 +209,9 @@ p.lead-paragraph {
     display: flex;
     align-items: center;
 }
+
+/* Mobile Design */
+
+@media screen and (min-width: 480px) {
+    
+}
