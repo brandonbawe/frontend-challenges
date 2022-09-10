@@ -4,8 +4,8 @@
 /* Variables */
 :root {
     --almost-white: #fafafa;
-    --light-gray: hsl(0, 0%, 41%);
-    --almost-black: hsl(0, 0%, 8%);
+    --light-gray: #696969;
+    --almost-black: #141414;
     --main-font-family: 'Epilogue', sans-serif;
 }
 /* Reset CSS */

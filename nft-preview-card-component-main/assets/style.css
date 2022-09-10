@@ -3,10 +3,10 @@
 
 /* Variables */
 :root {
-  --soft-blue: hsl(215, 51%, 70%);
-  --cyan: hsl(178, 100%, 50%);
-  --main-bg-color: hsl(217, 54%, 11%);
-  --card-bg: hsl(216, 50%, 16%);
+  --soft-blue: #8bacda;
+  --cyan: #00fff7;
+  --main-bg-color: #0d192b;
+  --card-bg: #14253d;
   --color-white: hsl(0, 0%, 100%);
   --main-font: "Outfit", sans-serif;
 }
